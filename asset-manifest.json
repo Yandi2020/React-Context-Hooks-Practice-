@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Context-Hooks-Practice-/static/css/main.51304592.chunk.css",
+    "main.js": "/React-Context-Hooks-Practice-/static/js/main.83a6b819.chunk.js",
+    "main.js.map": "/React-Context-Hooks-Practice-/static/js/main.83a6b819.chunk.js.map",
+    "runtime-main.js": "/React-Context-Hooks-Practice-/static/js/runtime-main.7b6e5f15.js",
+    "runtime-main.js.map": "/React-Context-Hooks-Practice-/static/js/runtime-main.7b6e5f15.js.map",
+    "static/js/2.e3f3205a.chunk.js": "/React-Context-Hooks-Practice-/static/js/2.e3f3205a.chunk.js",
+    "static/js/2.e3f3205a.chunk.js.map": "/React-Context-Hooks-Practice-/static/js/2.e3f3205a.chunk.js.map",
+    "static/js/3.c9884986.chunk.js": "/React-Context-Hooks-Practice-/static/js/3.c9884986.chunk.js",
+    "static/js/3.c9884986.chunk.js.map": "/React-Context-Hooks-Practice-/static/js/3.c9884986.chunk.js.map",
+    "index.html": "/React-Context-Hooks-Practice-/index.html",
+    "static/css/main.51304592.chunk.css.map": "/React-Context-Hooks-Practice-/static/css/main.51304592.chunk.css.map",
+    "static/js/2.e3f3205a.chunk.js.LICENSE.txt": "/React-Context-Hooks-Practice-/static/js/2.e3f3205a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6e5f15.js",
+    "static/js/2.e3f3205a.chunk.js",
+    "static/css/main.51304592.chunk.css",
+    "static/js/main.83a6b819.chunk.js"
+  ]
+}
